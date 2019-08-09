@@ -7,9 +7,9 @@ function basicTeenager(age) {
 
 function teenager(age) {
   if(age>=13&&age<=19){
-    console.log("You are a teenager!");
+    return "You are a teenager!" ;
   }else{
-    cobsole.log("you are not a teenager");
+    return "you are not a teenager" ;
 
   }
 
