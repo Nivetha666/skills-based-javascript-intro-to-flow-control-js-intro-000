@@ -10,7 +10,7 @@ function teenager(age) {
     console.log("You are a teenager!");
   }else{
     cobsole.log("you are not a teenager");
-    
+
   }
 
 }
@@ -56,8 +56,8 @@ function switchAge(age) {
                   break;
     default:
     console.log("You have an age");
-                  
-        
+
+
   }
 
 }
